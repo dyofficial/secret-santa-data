@@ -1,0 +1,46 @@
+{
+  "staff": [
+    {
+      "id": 1,
+      "name": "Daniel",
+      "department": "Marketing",
+      "email": "danielyeboah@expresspaygh.com",
+      "password": "daniel1"
+    },
+    {
+      "id": 2,
+      "name": "Edmund",
+      "department": "Dev",
+      "email": "edmundyeboah@expresspaygh.com",
+      "password": "daniel1"
+    },
+    {
+      "id": 3,
+      "name": "Paula",
+      "department": "Marketing",
+      "email": "paulaboahene@expresspaygh.com",
+      "password": "daniel1"
+    },
+    {
+      "id": 4,
+      "name": "Kwei",
+      "department": "EXEC",
+      "email": "kweihesse@expresspaygh.com",
+      "password": "daniel1"
+    },
+    {
+      "id": 1,
+      "name": "Lisa",
+      "department": "Customer Support",
+      "email": "lisavanderpuije@expresspaygh.com",
+      "password": "daniel1"
+    },
+    {
+      "id": 1,
+      "name": "Barbara",
+      "department": "Finance",
+      "email": "barbaraappiah@expresspaygh.com",
+      "password": "daniel1"
+    }
+  ]
+}
